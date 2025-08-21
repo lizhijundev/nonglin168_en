@@ -1,0 +1,24 @@
+{
+  "name": "nonglin168-en",
+  "version": "1.0.0",
+  "description": "Pine Wood Nematode Detection System - English Website",
+  "main": "index.html",
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "build": "mkdir -p dist && tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "dev": "npm run build-css",
+    "start": "python3 serve.py"
+  },
+  "keywords": [
+    "pine wood nematode",
+    "detection system",
+    "molecular detection",
+    "forestry"
+  ],
+  "author": "Howard Lee TechPulse Commerce Inc",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "packageManager": "pnpm@10.10.0+sha512.d615db246fe70f25dcfea6d8d73dee782ce23e2245e3c4f6f888249fb568149318637dca73c2c5c8ef2a4ca0d5657fb9567188bfab47f566d1ee6ce987815c39"
+}

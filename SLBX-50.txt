@@ -1,0 +1,71 @@
+Automated Molecular Detection System for Pine Wood Nematodes
+
+Model: SLBX-50 
+Brand: Howard Lee 
+
+I. Product Introduction: 
+The SLBX-50 Automated Molecular Detection System for Pine Wood Nematodes is an instrument specially designed by Howard TechPulse Commerce Inc for workers in forestry and commodity inspection systems to quickly and accurately detect pine wood nematodes. With its excellent performance and portability, it enables you to obtain more accurate and effective detection results in a shorter time. 
+
+II. Product Performance: 
+Detection throughput: 48-well 2-color fluorescence detection, each tube can detect 2 items at the same time, which greatly improves the experimental efficiency and avoids the inconvenience caused by repeated sample addition for detection. - Temperature control: The maximum heating rate is up to 8℃/s, the maximum cooling rate is up to 6.1℃/s, and a standard PCR amplification program can be completed in only 30 minutes; the temperature accuracy is controlled within ±0.1℃; ensuring good repeatability and accuracy. - Fluorescence scanning: It takes only 2 seconds to complete all 48-well 2-color fluorescence scanning, which can significantly reduce the overall experimental time for users who need to use the High-Resolution Melting (HRM) curve function, greatly improving work efficiency. Easy operation: - Full English system interface and guided parameter setting, after simple training, you can master the use of the instrument and have the ability to operate the experiment independently. Powerful data processing: - In addition to conventional analysis functions such as relative quantification, absolute quantification, HRM, and SNP, it is also compatible with fluorescence analysis functions of various amplification technologies, allowing you to not only quickly and automatically detect pine wood nematode molecules but also develop a variety of biological gene detection, realizing a truly multi-purpose machine. - In addition to the instrument operation software, it is also equipped with an independent data management software, which can realize centralized management, statistics, and analysis of a large number of user's experimental data, avoiding the previous step of manual complex analysis of raw data. Excellent environmental adaptability: - Adopting a fixed fluorescence detection unit, no calibration is required after moving, and it can be directly turned on for operation. Application fields: Import and export quarantine Forestry and forest protection departments Rapid food safety detection Public health on-site detection Small and medium-sized scientific research laboratories.
+
+III. Host Performance Parameters of Automated Molecular Detection System for Pine Wood  Nematodes
+Product name: Automated Molecular Detection System for Pine Wood
+ Nematodes 
+Product model: SLBX-50 
+Applicable consumables: 
+0.2mL transparent skirtless 48-well plates, 8-tube strips, single tubes, etc.; 
+Detection throughput: 48 Dyes/probes 
+Used: Channel:1: FAM, SYBR Green I, etc. Channel 2: VIC, HEX, TET, JOE, etc. 
+Reaction system: 5μL~100μL 
+Power supply specification: AC 120V(±10%), 60Hz, 600VA .
+Communication interface: Ethernet (RJ45), USB.
+Weight: 25 Kg 
+Overall dimensions: 520mm*420mm*320mm 
+Temperature control parameters: 
+Temperature control technology: Thermoelectric cooler heating and cooling technology 
+Temperature control range: 0.0℃~100.0℃ 
+Temperature accuracy: ≤ 0.1℃ 
+Module temperature control precision: ≤ 0.1℃ 
+Temperature uniformity: ±0.1℃ 
+Average heating rate: 4.0℃/s 
+Temperature gradient: 
+Supported Gradient temperature range: 1℃~35℃ 
+Temperature control program: Supports standard PCR, gradient PCR, touchdown PCR, long-fragment PCR, etc. 
+Heat cover temperature control range: 80℃~120℃ 
+Optical parameters: 
+Excitation light source: High-brightness maintenance-free LED Fluorescence detection device: Photodiode 
+Fluorescence scanning time: Complete 48-well 2-color detection within 2 seconds 
+Excitation wavelength:
+ Channel 1: 470nm 
+Channel 2: 523nm 
+Detection wavelength: 
+Channel 1: 525nm 
+Channel 2: 564nm 
+Fluorescence linearity: ≥0.990 
+Sample repeatability: Ct value CV% ≤ 0.5% 
+Sample linearity: /r/≥0.999 
+Software functions: 1.1 
+Equipped with an automated detection program for pine wood nematodes, which can run automatically; one-click command, no complicated program settings required. Complete nematode separation and nematode DNA extraction in 40 minutes; complete pine wood nematode DNA detection and analysis in 1 hour, automatically display detection results and print pine wood nematode detection reports, no manual interpretation required; real-time monitoring of the detection process to keep abreast of the detection status. 1.2 Has the function of directly detecting pine wood without separating nematodes. 1.3 Has a manual detection mode, which can expand other experiments. 1.4 Supporting detection reagents: The reagent sensitivity reaches 5ng; at the same time, all morphological stages of pine wood nematodes can be detected without cultivation. Supports absolute quantification, relative quantification, isothermal amplification, melting curve, high-resolution melting curve, genotyping, endpoint fluorescence analysis and other functions. 
+Detection system indicators: Reagent composition: 
+2.1 DNA extraction reagents: Main components for extracting pine wood nematode DNA; 
+2.2 PCR Master Mix: Main component of detection reagents, providing basic conditions for detection reactions; 
+2.3 Probe and primer mixture: Important component of detection reagents, ensuring the sensitivity and specificity of pine wood nematode detection; 
+2.4 Sterilized double-distilled water: Used for reagent preparation or as a negative control to prevent false positives;
+2.5 Positive control: Quality control of detection results to prevent false negatives. 
+Language support: English 
+Data storage: Can store ≥1000 experiment setting files/experiment data files 
+Remote control: Can realize one main control computer to control 10 instruments 
+Parameter description: * For reference only. 
+Configuration List of Pine Wood Nematode:
+ Molecular Detection System Serial number 
+Product name Quantity 
+Unit 1 Pine wood nematode molecular detection system host 
+1 unit Automated detection software for pine wood nematodes 
+1 set 2 Pine wood nematode rapid separator: 
+1. Working power supply: AC120V 60Hz 
+2. Instrument power consumption: Less than 600W 
+3. Working pressure: 0.6-0.8 MPa 
+4. Time range: 1～10 minutes 
+5. Working noise: ≤60dB (in stable working state) 
+6. Operating environment: 0

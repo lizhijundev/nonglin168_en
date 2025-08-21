@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://nonglin168.com/sitemap.xml
+
+# Important pages
+Allow: /index.html
+Allow: /pages/products.html
+Allow: /pages/product-slbx20mini.html
+Allow: /pages/product-slbx96.html
+Allow: /pages/product-slbxpro.html
+
+# CSS and images
+Allow: /dist/
+Allow: /images/
+
+# Crawl-delay (optional, for being respectful to search engines)
+Crawl-delay: 1
